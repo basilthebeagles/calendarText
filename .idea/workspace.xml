@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f71c98de-1295-4e26-90fe-14b220fbc3d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="useSoftWraps" value="true" />
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YxWwyheuT7bHX3sCF1KQXY6cDr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cred" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/calendarText/cred" />
+      <recent name="$PROJECT_DIR$/calendarText" />
+      <recent name="$PROJECT_DIR$/calendarTextApp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.calendarText">
+    <configuration name="calendarText" type="Python.DjangoServer" factoryName="Django server" show_console_on_std_err="true" show_console_on_std_out="true">
+      <module name="calendarText" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="calendarText.settings" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://ubuntu@ec2-35-178-82-224.eu-west-2.compute.amazonaws.com:22/usr/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="0.0.0.0" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="remoteCal" type="Python.DjangoServer" factoryName="Django server">
+      <module name="calendarText" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="calendarText.settings" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.remoteCal" />
+      <item itemvalue="Django server.calendarText" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f71c98de-1295-4e26-90fe-14b220fbc3d0" name="Default Changelist" comment="" />
+      <created>1583884967379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583884967379</updated>
+      <workItem from="1583884992079" duration="11029000" />
+      <workItem from="1583898569500" duration="6246000" />
+      <workItem from="1584049469664" duration="199000" />
+      <workItem from="1584049843147" duration="11844000" />
+      <workItem from="1584068753809" duration="2266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="286" y="36" key="#Deployment" timestamp="1584049658068">
+      <screen x="0" y="23" width="1280" height="700" />
+    </state>
+    <state x="286" y="36" key="#Deployment/0.23.1280.692@0.23.1280.692" timestamp="1583900967774" />
+    <state x="286" y="36" key="#Deployment/0.23.1280.700@0.23.1280.700" timestamp="1584049658068" />
+    <state x="104" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584069235970">
+      <screen x="0" y="23" width="1280" height="692" />
+    </state>
+    <state x="104" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.692@0.23.1280.692" timestamp="1584069235970" />
+    <state x="104" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.700@0.23.1280.700" timestamp="1584049873505" />
+    <state x="104" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.713@0.23.1280.713" timestamp="1584067794399" />
+    <state x="348" y="181" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584069114251">
+      <screen x="0" y="23" width="1280" height="692" />
+    </state>
+    <state x="348" y="181" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.692@0.23.1280.692" timestamp="1584069114251" />
+    <state x="348" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.713@0.23.1280.713" timestamp="1584067846923" />
+    <state x="347" y="195" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1583895703574">
+      <screen x="0" y="23" width="1280" height="692" />
+    </state>
+    <state x="347" y="195" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1280.692@0.23.1280.692" timestamp="1583895703574" />
+    <state width="1238" height="198" key="GridCell.Tab.0.bottom" timestamp="1584074179666">
+      <screen x="0" y="23" width="1280" height="703" />
+    </state>
+    <state width="1238" height="198" key="GridCell.Tab.0.bottom/0.23.1280.692@0.23.1280.692" timestamp="1584069121232" />
+    <state width="1238" height="198" key="GridCell.Tab.0.bottom/0.23.1280.696@0.23.1280.696" timestamp="1584070886328" />
+    <state width="1218" height="156" key="GridCell.Tab.0.bottom/0.23.1280.700@0.23.1280.700" timestamp="1584050083783" />
+    <state width="1238" height="198" key="GridCell.Tab.0.bottom/0.23.1280.703@0.23.1280.703" timestamp="1584074179666" />
+    <state width="1238" height="204" key="GridCell.Tab.0.bottom/0.23.1280.708@0.23.1280.708" timestamp="1584061881359" />
+    <state width="1238" height="204" key="GridCell.Tab.0.bottom/0.23.1280.713@0.23.1280.713" timestamp="1584068376747" />
+    <state width="1238" height="198" key="GridCell.Tab.0.center" timestamp="1584074179666">
+      <screen x="0" y="23" width="1280" height="703" />
+    </state>
+    <state width="1238" height="198" key="GridCell.Tab.0.center/0.23.1280.692@0.23.1280.692" timestamp="1584069121231" />
+    <state width="1238" height="198" key="GridCell.Tab.0.center/0.23.1280.696@0.23.1280.696" timestamp="1584070886327" />
+    <state width="1218" height="156" key="GridCell.Tab.0.center/0.23.1280.700@0.23.1280.700" timestamp="1584050083782" />
+    <state width="1238" height="198" key="GridCell.Tab.0.center/0.23.1280.703@0.23.1280.703" timestamp="1584074179666" />
+    <state width="1238" height="204" key="GridCell.Tab.0.center/0.23.1280.708@0.23.1280.708" timestamp="1584061881358" />
+    <state width="1238" height="204" key="GridCell.Tab.0.center/0.23.1280.713@0.23.1280.713" timestamp="1584068376746" />
+    <state width="1238" height="198" key="GridCell.Tab.0.left" timestamp="1584074179665">
+      <screen x="0" y="23" width="1280" height="703" />
+    </state>
+    <state width="1238" height="198" key="GridCell.Tab.0.left/0.23.1280.692@0.23.1280.692" timestamp="1584069121230" />
+    <state width="1238" height="198" key="GridCell.Tab.0.left/0.23.1280.696@0.23.1280.696" timestamp="1584070886327" />
+    <state width="1218" height="156" key="GridCell.Tab.0.left/0.23.1280.700@0.23.1280.700" timestamp="1584050083781" />
+    <state width="1238" height="198" key="GridCell.Tab.0.left/0.23.1280.703@0.23.1280.703" timestamp="1584074179665" />
+    <state width="1238" height="204" key="GridCell.Tab.0.left/0.23.1280.708@0.23.1280.708" timestamp="1584061881358" />
+    <state width="1238" height="204" key="GridCell.Tab.0.left/0.23.1280.713@0.23.1280.713" timestamp="1584068376746" />
+    <state width="1238" height="198" key="GridCell.Tab.0.right" timestamp="1584074179666">
+      <screen x="0" y="23" width="1280" height="703" />
+    </state>
+    <state width="1238" height="198" key="GridCell.Tab.0.right/0.23.1280.692@0.23.1280.692" timestamp="1584069121232" />
+    <state width="1238" height="198" key="GridCell.Tab.0.right/0.23.1280.696@0.23.1280.696" timestamp="1584070886328" />
+    <state width="1218" height="156" key="GridCell.Tab.0.right/0.23.1280.700@0.23.1280.700" timestamp="1584050083782" />
+    <state width="1238" height="198" key="GridCell.Tab.0.right/0.23.1280.703@0.23.1280.703" timestamp="1584074179666" />
+    <state width="1238" height="204" key="GridCell.Tab.0.right/0.23.1280.708@0.23.1280.708" timestamp="1584061881359" />
+    <state width="1238" height="204" key="GridCell.Tab.0.right/0.23.1280.713@0.23.1280.713" timestamp="1584068376747" />
+    <state width="1238" height="216" key="GridCell.Tab.1.bottom" timestamp="1584068433895">
+      <screen x="0" y="23" width="1280" height="703" />
+    </state>
+    <state width="1238" height="216" key="GridCell.Tab.1.bottom/0.23.1280.703@0.23.1280.703" timestamp="1584068433895" />
+    <state width="1238" height="216" key="GridCell.Tab.1.bottom/0.23.1280.708@0.23.1280.708" timestamp="1584058126262" />
+    <state width="1238" height="216" key="GridCell.Tab.1.center" timestamp="1584068433895">
+      <screen x="0" y="23" width="1280" height="703" />
+    </state>
+    <state width="1238" height="216" key="GridCell.Tab.1.center/0.23.1280.703@0.23.1280.703" timestamp="1584068433895" />
+    <state width="1238" height="216" key="GridCell.Tab.1.center/0.23.1280.708@0.23.1280.708" timestamp="1584058126261" />
+    <state width="1238" height="216" key="GridCell.Tab.1.left" timestamp="1584068433894">
+      <screen x="0" y="23" width="1280" height="703" />
+    </state>
+    <state width="1238" height="216" key="GridCell.Tab.1.left/0.23.1280.703@0.23.1280.703" timestamp="1584068433894" />
+    <state width="1238" height="216" key="GridCell.Tab.1.left/0.23.1280.708@0.23.1280.708" timestamp="1584058126261" />
+    <state width="1238" height="216" key="GridCell.Tab.1.right" timestamp="1584068433895">
+      <screen x="0" y="23" width="1280" height="703" />
+    </state>
+    <state width="1238" height="216" key="GridCell.Tab.1.right/0.23.1280.703@0.23.1280.703" timestamp="1584068433895" />
+    <state width="1238" height="216" key="GridCell.Tab.1.right/0.23.1280.708@0.23.1280.708" timestamp="1584058126261" />
+    <state x="187" y="23" width="997" height="713" key="SettingsEditor" timestamp="1584067384747">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state x="187" y="23" key="SettingsEditor/0.23.1280.692@0.23.1280.692" timestamp="1583901301517" />
+    <state x="187" y="23" key="SettingsEditor/0.23.1280.700@0.23.1280.700" timestamp="1584049983899" />
+    <state x="187" y="23" width="997" height="708" key="SettingsEditor/0.23.1280.708@0.23.1280.708" timestamp="1584064909943" />
+    <state x="187" y="23" width="997" height="713" key="SettingsEditor/0.23.1280.713@0.23.1280.713" timestamp="1584067384747" />
+    <state x="284" y="183" key="com.intellij.ide.util.TipDialog" timestamp="1584049853672">
+      <screen x="0" y="23" width="1280" height="700" />
+    </state>
+    <state x="284" y="183" key="com.intellij.ide.util.TipDialog/0.23.1280.700@0.23.1280.700" timestamp="1584049853672" />
+    <state x="401" y="174" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1583901146967">
+      <screen x="0" y="23" width="1280" height="692" />
+    </state>
+    <state x="401" y="174" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.23.1280.692@0.23.1280.692" timestamp="1583901146967" />
+    <state x="307" y="140" key="ftp.server.browser" timestamp="1583901269102">
+      <screen x="0" y="23" width="1280" height="692" />
+    </state>
+    <state x="307" y="140" key="ftp.server.browser/0.23.1280.692@0.23.1280.692" timestamp="1583901269102" />
+  </component>
+</project>
