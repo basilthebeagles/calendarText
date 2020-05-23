@@ -54,7 +54,7 @@ def interpret(message, sender):
             for string in splitString:
                 payload = {'username': 'johnjoestack@gmail.com',
 
-                           'key': '8BEFF0B3-6095-D81C-7396-9F04BA9FA974',
+                           'key': 'x',
                            'to': str(sender),
                            'message': string
                            }
@@ -64,7 +64,7 @@ def interpret(message, sender):
         else:
             payload = {'username': 'johnjoestack@gmail.com',
 
-                       'key': '8BEFF0B3-6095-D81C-7396-9F04BA9FA974',
+                       'key': 'x',
                        'to': str(sender),
                        'message': eventString
                        }
